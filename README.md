@@ -76,5 +76,3 @@
 https://www.udemy.com/course/qaengineer/learn/practice/1357036/introduction#questions
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nastya99780)
