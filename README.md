@@ -13,7 +13,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/ansventitskaya.com" target="_blank">
+    <a href="https://t.me/ansventitskaya" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
